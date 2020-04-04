@@ -1,1 +1,1 @@
-return "Hello Grace"
+puts "Hello Grace"
